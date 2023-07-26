@@ -1,0 +1,16 @@
+.hero {
+  text-align: left;
+  margin-top: 0px;
+  margin-bottom: 100px;
+  padding: 100px;
+  color: #ffffff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-width: 610px;
+  height: auto;
+}
+
+.header {
+  background-color: black;
+}
